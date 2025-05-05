@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm MilanScripts</h1>
 <p align="center">
-  🛠️ Developer | 🎮 Game Scripter | 🔒 Anti-Cheat Enthusiast  
+  🛠️ Developer | 🎮 Game Scripter | 🔒 Anti Cheat Enthusiast  
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MilanScripts.MilanScripts" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🔍 About Me
 
-- 👀 I’m passionate about **game scripting**, **anti cheat systems**, and **server side logic**
+- 👀 I’m passionate about **game scripting**, **anti-cheat systems**, and **server-side logic**
 - 🌱 Currently learning more about **low-level exploits**, **CEF (Chromium Embedded Framework)**, and **performance optimization**
-- 💼 Looking to collaborate on **Roblox**, **FiveM**, and **security focused projects**
-- 💬 Ask me about anything related to **Lua**, **C++**, or **server client game architecture**
+- 💼 Looking to collaborate on **Roblox**, **FiveM**, and **security-focused projects**
+- 💬 Ask me about anything related to **Lua**, **C++**, or **server-client game architecture**
 - 📫 Reach me at: **[juevade@proton.me](mailto:juevade@proton.me)**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I break games for fun — but only to make them stronger. 💪
@@ -27,7 +31,7 @@
 
 ### 💻 Tech Stack
 
-- **Languages**: Lua PHP, Python, JavaScript
+- **Languages**: Lua, PHP, Python, JavaScript
 - **Tools**: Visual Studio, VS Code
 - **Platforms**: FiveM, Web development
 
